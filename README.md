@@ -10,3 +10,6 @@ Chapter 2
   - print_my_rhombus.rb
   - print_my_hollow_square.rb
   - print_my_heart.rb
+Chapter 3
+  - simple_add_calc.rb
+  - add_quiz.rb
