@@ -11,5 +11,11 @@ Chapter 2
   - print_my_hollow_square.rb
   - print_my_heart.rb
 Chapter 3
+  Problems
   - simple_add_calc.rb
   - add_quiz.rb
+  - subract_quiz.rb
+  - number_guesses.rb
+  Exercises
+  - counting_to_21.rb
+  - hangman.rb
