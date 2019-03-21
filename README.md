@@ -1,6 +1,6 @@
 # by_example
 Learn Ruby Programming by Examples
-Chapter 2 
+Chapter_2 
   Problems
   - print_triangle.rb
   - print_half_diamond.rb
@@ -10,7 +10,7 @@ Chapter 2
   - print_my_rhombus.rb
   - print_my_hollow_square.rb
   - print_my_heart.rb
-Chapter 3
+Chapter_3
   Problems
   - simple_add_calc.rb
   - add_quiz.rb
