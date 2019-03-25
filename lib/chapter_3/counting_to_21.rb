@@ -1,7 +1,5 @@
 # counting_to_21.rb
 
-require 'pry'
-
 numbers = (1..23).to_a
 number_of_players = 0
 round_number = 0
